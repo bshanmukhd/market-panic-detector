@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Price cache (re-downloaded automatically from Yahoo Finance)
+data/
+
+# Local tooling
+.claude/
+.DS_Store
